@@ -14,7 +14,7 @@ Let git know what your user name and email address are.
    ```bash
    git config --global user.email user@developersinstitute.co.nz
    ```
-3. To verify you have set up your config correctly, type the following and check the values returned match what you typed above. Type the following into your Terminal:
+3. To verify you have set up your config correctly, type the following into your Terminal and check the values returned match what you typed above:
 
    ```bash
    git config --global user.name
