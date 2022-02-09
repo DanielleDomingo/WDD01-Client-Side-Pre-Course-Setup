@@ -5,7 +5,7 @@
 Being a remote-first company, we need to be able to successfully communicate and collaborate together from anywhere. 
 
 One tool we use for this is a digital 'whiteboard' called [Miro](https://miro.com/) (pronounced like “Hero”)
-Miro makes it easy to brainstorm and collaborate all in real time. Everyone can create notes and designs, move things around, utelise post-its, draw and use all diffrent kinds of pre-built templates.
+Miro makes it easy to brainstorm and collaborate all in real time. Everyone can create notes and designs, move things around, utilise post-its, draw and use all different kinds of pre-built templates.
 
 Some common uses of Miro at Developers Institute include:
 
